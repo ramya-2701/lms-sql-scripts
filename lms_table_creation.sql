@@ -16,7 +16,7 @@ INSERT INTO book VALUES ('123', 'Head First Java', 'Bert Bates', '2014', '100'),
 ('240', 'ava: The Complete Reference', 'Herbert Schildt', '2017', '100'),
 ('260', 'Java Programming', 'D.S. Malik', '2014', '50');
 
-INSERT INTO book_isbn VALUES ('0061120081', '123'),('0141182556',12345),
+INSERT INTO book_isbn VALUES ('0061120081', '123'),('0141182556',123),
 ('0307277674', '124'),
 ('1400033411', '124'),
 ('0345803485', '260'),
